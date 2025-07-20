@@ -1,6 +1,6 @@
 # 🎧 Spotify Clone
 
-A responsive and modern **Spotify Clone** built using **HTML**, **CSS**, and **JavaScript**. This project replicates the front-end design of Spotify’s web player, with a clean layout, music controls, custom fonts, and icon integration.
+A responsive and modern **Spotify Clone** built using **HTML**, **CSS**. This project replicates the front-end design of Spotify’s web player, with a clean layout, music controls, custom fonts, and icon integration.
 
 > ⚠️ This is a front-end-only clone — no real music playback or backend integration.
 
@@ -20,7 +20,6 @@ A responsive and modern **Spotify Clone** built using **HTML**, **CSS**, and **J
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla JS)  
 - 🎨 **Font Awesome** (via CDN)  
 - 🅰️ **Google Fonts** (`Poppins`, `Roboto`)
 
